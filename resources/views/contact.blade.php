@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:title>
-        _
+        {{ trans('app.Header.contact') }}
     </x-slot:title>
     <div className="mb-5 container-maps">
         <iframe

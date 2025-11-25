@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:title>
-        _
+        {{ trans('app.Header.product') }}
     </x-slot:title>
 
     @foreach ($listOfProducts as $list)

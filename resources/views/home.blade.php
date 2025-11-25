@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:title>
-        _
+        {{ trans('app.Header.home') }}
     </x-slot:title>
     @php
         $imgs = [
