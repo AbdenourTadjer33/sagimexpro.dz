@@ -22,7 +22,7 @@ return [
     ],
     "HeroBanner" => [
       "slide1" => [
-        "t1" => "25 YEARS",
+        "t1" => "27 YEARS",
         "t2" => "OF EXPERIENCE",
         "t3" => "at your service",
       ],
@@ -83,12 +83,12 @@ return [
         "title" => "Call",
         "text" => [
           "t1" => "Tél 0660 300 323",
-          "t2" => "Fix/Fax 023 27 45 14",
+          "t2" => "Fix/Fax 020 30 10 79",
         ],
       ],
       "pro" => [
         "title" => "Email us",
-        "text" => "distribution@sagimexpro.dz",
+        "text" => "sagimexpro.distribution@gmail.com",
       ],
       "footerSection" => "We're on social networks",
     ],
