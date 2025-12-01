@@ -47,7 +47,7 @@
 
             <h4 class="pt-3">{{ trans('app.SectionOurContact.pro.title') }}</h4>
 
-            <a href="mailto:distribution@sagimexpro.dz">
+            <a href="mailto:sagimexpro.distribution@gmail.com">
                 {{ trans('app.SectionOurContact.pro.text') }}
             </a>
         </div>
